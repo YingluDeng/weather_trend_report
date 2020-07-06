@@ -1,0 +1,1800 @@
+year,city,country,avg_temp
+1775,Denver,United States,10.32
+1776,Denver,United States,6.23
+1777,Denver,United States,
+1778,Denver,United States,
+1779,Denver,United States,
+1780,Denver,United States,
+1781,Denver,United States,
+1782,Denver,United States,
+1783,Denver,United States,
+1784,Denver,United States,
+1785,Denver,United States,
+1786,Denver,United States,
+1787,Denver,United States,
+1788,Denver,United States,
+1789,Denver,United States,
+1790,Denver,United States,
+1791,Denver,United States,
+1792,Denver,United States,
+1793,Denver,United States,
+1794,Denver,United States,
+1795,Denver,United States,
+1796,Denver,United States,
+1797,Denver,United States,
+1798,Denver,United States,
+1799,Denver,United States,
+1800,Denver,United States,
+1801,Denver,United States,
+1802,Denver,United States,
+1803,Denver,United States,
+1804,Denver,United States,
+1805,Denver,United States,
+1806,Denver,United States,
+1807,Denver,United States,
+1808,Denver,United States,
+1809,Denver,United States,
+1810,Denver,United States,
+1811,Denver,United States,
+1812,Denver,United States,
+1813,Denver,United States,
+1814,Denver,United States,
+1815,Denver,United States,
+1816,Denver,United States,
+1817,Denver,United States,
+1818,Denver,United States,
+1819,Denver,United States,
+1820,Denver,United States,7.43
+1821,Denver,United States,8.11
+1822,Denver,United States,8.36
+1823,Denver,United States,8.03
+1824,Denver,United States,8.43
+1825,Denver,United States,9.10
+1826,Denver,United States,8.44
+1827,Denver,United States,9.20
+1828,Denver,United States,8.60
+1829,Denver,United States,8.50
+1830,Denver,United States,9.33
+1831,Denver,United States,7.61
+1832,Denver,United States,8.35
+1833,Denver,United States,9.07
+1834,Denver,United States,10.31
+1835,Denver,United States,7.42
+1836,Denver,United States,7.46
+1837,Denver,United States,8.00
+1838,Denver,United States,7.34
+1839,Denver,United States,8.57
+1840,Denver,United States,8.10
+1841,Denver,United States,8.11
+1842,Denver,United States,8.48
+1843,Denver,United States,7.76
+1844,Denver,United States,8.11
+1845,Denver,United States,8.71
+1846,Denver,United States,9.44
+1847,Denver,United States,7.67
+1848,Denver,United States,7.87
+1849,Denver,United States,8.23
+1850,Denver,United States,8.24
+1851,Denver,United States,8.83
+1852,Denver,United States,7.84
+1853,Denver,United States,8.52
+1854,Denver,United States,9.22
+1855,Denver,United States,8.81
+1856,Denver,United States,8.11
+1857,Denver,United States,8.57
+1858,Denver,United States,8.45
+1859,Denver,United States,7.81
+1860,Denver,United States,8.95
+1861,Denver,United States,9.21
+1862,Denver,United States,8.59
+1863,Denver,United States,8.92
+1864,Denver,United States,8.53
+1865,Denver,United States,8.49
+1866,Denver,United States,8.46
+1867,Denver,United States,9.26
+1868,Denver,United States,8.49
+1869,Denver,United States,7.75
+1870,Denver,United States,8.84
+1871,Denver,United States,9.35
+1872,Denver,United States,7.73
+1873,Denver,United States,8.10
+1874,Denver,United States,8.72
+1875,Denver,United States,7.68
+1876,Denver,United States,8.37
+1877,Denver,United States,8.23
+1878,Denver,United States,8.68
+1879,Denver,United States,9.29
+1880,Denver,United States,7.80
+1881,Denver,United States,8.92
+1882,Denver,United States,8.62
+1883,Denver,United States,7.94
+1884,Denver,United States,7.90
+1885,Denver,United States,8.24
+1886,Denver,United States,8.47
+1887,Denver,United States,8.75
+1888,Denver,United States,8.85
+1889,Denver,United States,8.73
+1890,Denver,United States,9.10
+1891,Denver,United States,7.75
+1892,Denver,United States,8.00
+1893,Denver,United States,8.78
+1894,Denver,United States,8.80
+1895,Denver,United States,7.60
+1896,Denver,United States,9.24
+1897,Denver,United States,8.45
+1898,Denver,United States,7.97
+1899,Denver,United States,8.01
+1900,Denver,United States,9.32
+1901,Denver,United States,9.05
+1902,Denver,United States,8.82
+1903,Denver,United States,7.93
+1904,Denver,United States,8.86
+1905,Denver,United States,8.13
+1906,Denver,United States,8.49
+1907,Denver,United States,9.01
+1908,Denver,United States,8.60
+1909,Denver,United States,8.04
+1910,Denver,United States,9.78
+1911,Denver,United States,8.85
+1912,Denver,United States,7.21
+1913,Denver,United States,7.85
+1914,Denver,United States,8.94
+1915,Denver,United States,8.16
+1916,Denver,United States,8.34
+1917,Denver,United States,8.06
+1918,Denver,United States,8.46
+1919,Denver,United States,8.29
+1920,Denver,United States,8.19
+1921,Denver,United States,9.77
+1922,Denver,United States,8.75
+1923,Denver,United States,7.99
+1924,Denver,United States,7.76
+1925,Denver,United States,9.13
+1926,Denver,United States,8.88
+1927,Denver,United States,8.79
+1928,Denver,United States,8.32
+1929,Denver,United States,7.75
+1930,Denver,United States,8.37
+1931,Denver,United States,9.35
+1932,Denver,United States,8.54
+1933,Denver,United States,9.87
+1934,Denver,United States,10.92
+1935,Denver,United States,9.36
+1936,Denver,United States,9.39
+1937,Denver,United States,8.74
+1938,Denver,United States,9.54
+1939,Denver,United States,9.52
+1940,Denver,United States,9.07
+1941,Denver,United States,9.05
+1942,Denver,United States,8.46
+1943,Denver,United States,9.55
+1944,Denver,United States,8.58
+1945,Denver,United States,8.60
+1946,Denver,United States,9.57
+1947,Denver,United States,8.68
+1948,Denver,United States,8.50
+1949,Denver,United States,8.77
+1950,Denver,United States,9.32
+1951,Denver,United States,8.06
+1952,Denver,United States,9.15
+1953,Denver,United States,9.73
+1954,Denver,United States,10.62
+1955,Denver,United States,8.94
+1956,Denver,United States,9.38
+1957,Denver,United States,8.72
+1958,Denver,United States,9.32
+1959,Denver,United States,8.70
+1960,Denver,United States,8.50
+1961,Denver,United States,8.30
+1962,Denver,United States,9.17
+1963,Denver,United States,9.90
+1964,Denver,United States,8.73
+1965,Denver,United States,8.73
+1966,Denver,United States,8.97
+1967,Denver,United States,8.91
+1968,Denver,United States,8.72
+1969,Denver,United States,8.95
+1970,Denver,United States,8.87
+1971,Denver,United States,8.75
+1972,Denver,United States,8.71
+1973,Denver,United States,8.42
+1974,Denver,United States,9.06
+1975,Denver,United States,8.72
+1976,Denver,United States,9.19
+1977,Denver,United States,9.89
+1978,Denver,United States,8.59
+1979,Denver,United States,8.47
+1980,Denver,United States,9.46
+1981,Denver,United States,10.25
+1982,Denver,United States,8.67
+1983,Denver,United States,8.43
+1984,Denver,United States,8.54
+1985,Denver,United States,8.33
+1986,Denver,United States,9.99
+1987,Denver,United States,9.33
+1988,Denver,United States,9.19
+1989,Denver,United States,9.07
+1990,Denver,United States,9.28
+1991,Denver,United States,9.32
+1992,Denver,United States,9.16
+1993,Denver,United States,8.18
+1994,Denver,United States,10.02
+1995,Denver,United States,9.21
+1996,Denver,United States,9.31
+1997,Denver,United States,8.85
+1998,Denver,United States,9.81
+1999,Denver,United States,10.05
+2000,Denver,United States,10.00
+2001,Denver,United States,10.01
+2002,Denver,United States,9.61
+2003,Denver,United States,10.04
+2004,Denver,United States,9.54
+2005,Denver,United States,10.06
+2006,Denver,United States,9.96
+2007,Denver,United States,9.48
+2008,Denver,United States,9.09
+2009,Denver,United States,8.89
+2010,Denver,United States,9.76
+2011,Denver,United States,9.38
+2012,Denver,United States,10.92
+2013,Denver,United States,11.21
+1835,Las Vegas,United States,14.93
+1836,Las Vegas,United States,16.35
+1837,Las Vegas,United States,16.40
+1838,Las Vegas,United States,
+1839,Las Vegas,United States,28.01
+1840,Las Vegas,United States,
+1841,Las Vegas,United States,
+1842,Las Vegas,United States,
+1843,Las Vegas,United States,19.48
+1844,Las Vegas,United States,16.47
+1845,Las Vegas,United States,16.83
+1846,Las Vegas,United States,
+1847,Las Vegas,United States,19.99
+1848,Las Vegas,United States,27.94
+1849,Las Vegas,United States,17.17
+1850,Las Vegas,United States,16.85
+1851,Las Vegas,United States,17.15
+1852,Las Vegas,United States,16.91
+1853,Las Vegas,United States,17.79
+1854,Las Vegas,United States,17.36
+1855,Las Vegas,United States,17.58
+1856,Las Vegas,United States,17.18
+1857,Las Vegas,United States,17.79
+1858,Las Vegas,United States,17.10
+1859,Las Vegas,United States,16.64
+1860,Las Vegas,United States,17.06
+1861,Las Vegas,United States,18.11
+1862,Las Vegas,United States,17.54
+1863,Las Vegas,United States,17.54
+1864,Las Vegas,United States,18.08
+1865,Las Vegas,United States,17.45
+1866,Las Vegas,United States,17.95
+1867,Las Vegas,United States,18.20
+1868,Las Vegas,United States,17.64
+1869,Las Vegas,United States,17.63
+1870,Las Vegas,United States,17.45
+1871,Las Vegas,United States,17.75
+1872,Las Vegas,United States,17.26
+1873,Las Vegas,United States,17.45
+1874,Las Vegas,United States,17.09
+1875,Las Vegas,United States,17.89
+1876,Las Vegas,United States,17.29
+1877,Las Vegas,United States,17.52
+1878,Las Vegas,United States,17.17
+1879,Las Vegas,United States,17.59
+1880,Las Vegas,United States,16.11
+1881,Las Vegas,United States,17.36
+1882,Las Vegas,United States,16.48
+1883,Las Vegas,United States,16.97
+1884,Las Vegas,United States,16.57
+1885,Las Vegas,United States,17.83
+1886,Las Vegas,United States,17.46
+1887,Las Vegas,United States,17.54
+1888,Las Vegas,United States,17.61
+1889,Las Vegas,United States,17.80
+1890,Las Vegas,United States,17.40
+1891,Las Vegas,United States,16.91
+1892,Las Vegas,United States,17.30
+1893,Las Vegas,United States,16.97
+1894,Las Vegas,United States,16.72
+1895,Las Vegas,United States,16.80
+1896,Las Vegas,United States,17.37
+1897,Las Vegas,United States,16.90
+1898,Las Vegas,United States,16.97
+1899,Las Vegas,United States,17.15
+1900,Las Vegas,United States,17.84
+1901,Las Vegas,United States,17.62
+1902,Las Vegas,United States,17.04
+1903,Las Vegas,United States,17.13
+1904,Las Vegas,United States,17.71
+1905,Las Vegas,United States,17.01
+1906,Las Vegas,United States,17.35
+1907,Las Vegas,United States,17.50
+1908,Las Vegas,United States,16.83
+1909,Las Vegas,United States,16.66
+1910,Las Vegas,United States,18.17
+1911,Las Vegas,United States,16.64
+1912,Las Vegas,United States,15.99
+1913,Las Vegas,United States,16.43
+1914,Las Vegas,United States,17.53
+1915,Las Vegas,United States,16.79
+1916,Las Vegas,United States,16.40
+1917,Las Vegas,United States,16.71
+1918,Las Vegas,United States,17.02
+1919,Las Vegas,United States,16.92
+1920,Las Vegas,United States,16.62
+1921,Las Vegas,United States,17.85
+1922,Las Vegas,United States,16.96
+1923,Las Vegas,United States,16.84
+1924,Las Vegas,United States,17.13
+1925,Las Vegas,United States,17.26
+1926,Las Vegas,United States,17.99
+1927,Las Vegas,United States,17.41
+1928,Las Vegas,United States,17.53
+1929,Las Vegas,United States,17.11
+1930,Las Vegas,United States,16.95
+1931,Las Vegas,United States,17.66
+1932,Las Vegas,United States,17.00
+1933,Las Vegas,United States,17.13
+1934,Las Vegas,United States,19.21
+1935,Las Vegas,United States,17.39
+1936,Las Vegas,United States,17.94
+1937,Las Vegas,United States,17.37
+1938,Las Vegas,United States,17.23
+1939,Las Vegas,United States,17.58
+1940,Las Vegas,United States,18.29
+1941,Las Vegas,United States,16.48
+1942,Las Vegas,United States,17.53
+1943,Las Vegas,United States,18.06
+1944,Las Vegas,United States,16.73
+1945,Las Vegas,United States,17.00
+1946,Las Vegas,United States,17.30
+1947,Las Vegas,United States,17.73
+1948,Las Vegas,United States,16.59
+1949,Las Vegas,United States,16.60
+1950,Las Vegas,United States,18.01
+1951,Las Vegas,United States,16.98
+1952,Las Vegas,United States,17.07
+1953,Las Vegas,United States,17.42
+1954,Las Vegas,United States,18.13
+1955,Las Vegas,United States,16.85
+1956,Las Vegas,United States,17.45
+1957,Las Vegas,United States,17.34
+1958,Las Vegas,United States,18.13
+1959,Las Vegas,United States,18.15
+1960,Las Vegas,United States,17.90
+1961,Las Vegas,United States,17.48
+1962,Las Vegas,United States,17.70
+1963,Las Vegas,United States,17.50
+1964,Las Vegas,United States,16.80
+1965,Las Vegas,United States,16.83
+1966,Las Vegas,United States,17.73
+1967,Las Vegas,United States,17.45
+1968,Las Vegas,United States,17.43
+1969,Las Vegas,United States,17.63
+1970,Las Vegas,United States,17.37
+1971,Las Vegas,United States,16.73
+1972,Las Vegas,United States,17.40
+1973,Las Vegas,United States,17.03
+1974,Las Vegas,United States,17.56
+1975,Las Vegas,United States,16.69
+1976,Las Vegas,United States,17.16
+1977,Las Vegas,United States,17.91
+1978,Las Vegas,United States,17.46
+1979,Las Vegas,United States,17.17
+1980,Las Vegas,United States,17.73
+1981,Las Vegas,United States,18.63
+1982,Las Vegas,United States,16.65
+1983,Las Vegas,United States,17.14
+1984,Las Vegas,United States,17.44
+1985,Las Vegas,United States,17.43
+1986,Las Vegas,United States,18.19
+1987,Las Vegas,United States,17.48
+1988,Las Vegas,United States,17.95
+1989,Las Vegas,United States,18.38
+1990,Las Vegas,United States,17.64
+1991,Las Vegas,United States,17.32
+1992,Las Vegas,United States,17.80
+1993,Las Vegas,United States,17.31
+1994,Las Vegas,United States,18.06
+1995,Las Vegas,United States,18.14
+1996,Las Vegas,United States,18.77
+1997,Las Vegas,United States,18.15
+1998,Las Vegas,United States,16.71
+1999,Las Vegas,United States,17.87
+2000,Las Vegas,United States,18.51
+2001,Las Vegas,United States,18.50
+2002,Las Vegas,United States,18.20
+2003,Las Vegas,United States,18.65
+2004,Las Vegas,United States,17.96
+2005,Las Vegas,United States,17.95
+2006,Las Vegas,United States,18.11
+2007,Las Vegas,United States,18.55
+2008,Las Vegas,United States,18.10
+2009,Las Vegas,United States,18.04
+2010,Las Vegas,United States,17.65
+2011,Las Vegas,United States,17.35
+2012,Las Vegas,United States,18.81
+2013,Las Vegas,United States,20.54
+1855,Los Angeles,Chile,10.20
+1856,Los Angeles,Chile,12.01
+1857,Los Angeles,Chile,12.06
+1858,Los Angeles,Chile,12.13
+1859,Los Angeles,Chile,12.39
+1860,Los Angeles,Chile,12.07
+1861,Los Angeles,Chile,11.89
+1862,Los Angeles,Chile,11.65
+1863,Los Angeles,Chile,11.49
+1864,Los Angeles,Chile,12.00
+1865,Los Angeles,Chile,12.43
+1866,Los Angeles,Chile,12.31
+1867,Los Angeles,Chile,12.17
+1868,Los Angeles,Chile,12.15
+1869,Los Angeles,Chile,12.01
+1870,Los Angeles,Chile,11.87
+1871,Los Angeles,Chile,11.68
+1872,Los Angeles,Chile,11.69
+1873,Los Angeles,Chile,12.27
+1874,Los Angeles,Chile,12.06
+1875,Los Angeles,Chile,11.92
+1876,Los Angeles,Chile,12.39
+1877,Los Angeles,Chile,12.91
+1878,Los Angeles,Chile,12.50
+1879,Los Angeles,Chile,12.71
+1880,Los Angeles,Chile,12.56
+1881,Los Angeles,Chile,12.12
+1882,Los Angeles,Chile,12.35
+1883,Los Angeles,Chile,11.99
+1884,Los Angeles,Chile,11.93
+1885,Los Angeles,Chile,11.62
+1886,Los Angeles,Chile,12.05
+1887,Los Angeles,Chile,12.02
+1888,Los Angeles,Chile,12.34
+1889,Los Angeles,Chile,11.54
+1890,Los Angeles,Chile,12.12
+1891,Los Angeles,Chile,12.40
+1892,Los Angeles,Chile,12.00
+1893,Los Angeles,Chile,12.09
+1894,Los Angeles,Chile,12.31
+1895,Los Angeles,Chile,12.35
+1896,Los Angeles,Chile,12.97
+1897,Los Angeles,Chile,12.44
+1898,Los Angeles,Chile,11.76
+1899,Los Angeles,Chile,12.91
+1900,Los Angeles,Chile,12.68
+1901,Los Angeles,Chile,12.61
+1902,Los Angeles,Chile,12.37
+1903,Los Angeles,Chile,12.13
+1904,Los Angeles,Chile,12.94
+1905,Los Angeles,Chile,12.66
+1906,Los Angeles,Chile,12.53
+1907,Los Angeles,Chile,12.02
+1908,Los Angeles,Chile,12.55
+1909,Los Angeles,Chile,12.20
+1910,Los Angeles,Chile,11.78
+1911,Los Angeles,Chile,12.33
+1912,Los Angeles,Chile,12.52
+1913,Los Angeles,Chile,12.87
+1914,Los Angeles,Chile,12.40
+1915,Los Angeles,Chile,12.31
+1916,Los Angeles,Chile,11.91
+1917,Los Angeles,Chile,12.67
+1918,Los Angeles,Chile,12.19
+1919,Los Angeles,Chile,12.76
+1920,Los Angeles,Chile,12.47
+1921,Los Angeles,Chile,12.10
+1922,Los Angeles,Chile,12.41
+1923,Los Angeles,Chile,11.99
+1924,Los Angeles,Chile,12.46
+1925,Los Angeles,Chile,12.31
+1926,Los Angeles,Chile,12.77
+1927,Los Angeles,Chile,12.53
+1928,Los Angeles,Chile,12.31
+1929,Los Angeles,Chile,12.38
+1930,Los Angeles,Chile,13.29
+1931,Los Angeles,Chile,12.71
+1932,Los Angeles,Chile,12.83
+1933,Los Angeles,Chile,12.34
+1934,Los Angeles,Chile,12.44
+1935,Los Angeles,Chile,12.89
+1936,Los Angeles,Chile,12.53
+1937,Los Angeles,Chile,12.53
+1938,Los Angeles,Chile,12.09
+1939,Los Angeles,Chile,12.93
+1940,Los Angeles,Chile,13.08
+1941,Los Angeles,Chile,12.65
+1942,Los Angeles,Chile,12.73
+1943,Los Angeles,Chile,13.14
+1944,Los Angeles,Chile,13.15
+1945,Los Angeles,Chile,13.24
+1946,Los Angeles,Chile,12.70
+1947,Los Angeles,Chile,12.75
+1948,Los Angeles,Chile,12.58
+1949,Los Angeles,Chile,12.75
+1950,Los Angeles,Chile,12.62
+1951,Los Angeles,Chile,13.10
+1952,Los Angeles,Chile,13.21
+1953,Los Angeles,Chile,12.81
+1954,Los Angeles,Chile,12.61
+1955,Los Angeles,Chile,12.32
+1956,Los Angeles,Chile,12.49
+1957,Los Angeles,Chile,12.85
+1958,Los Angeles,Chile,12.90
+1959,Los Angeles,Chile,12.59
+1960,Los Angeles,Chile,13.15
+1961,Los Angeles,Chile,12.73
+1962,Los Angeles,Chile,13.10
+1963,Los Angeles,Chile,12.81
+1964,Los Angeles,Chile,12.72
+1965,Los Angeles,Chile,13.00
+1966,Los Angeles,Chile,12.54
+1967,Los Angeles,Chile,12.51
+1968,Los Angeles,Chile,13.14
+1969,Los Angeles,Chile,12.65
+1970,Los Angeles,Chile,12.70
+1971,Los Angeles,Chile,12.52
+1972,Los Angeles,Chile,12.87
+1973,Los Angeles,Chile,12.40
+1974,Los Angeles,Chile,12.38
+1975,Los Angeles,Chile,12.70
+1976,Los Angeles,Chile,12.57
+1977,Los Angeles,Chile,13.47
+1978,Los Angeles,Chile,13.34
+1979,Los Angeles,Chile,13.04
+1980,Los Angeles,Chile,13.29
+1981,Los Angeles,Chile,13.23
+1982,Los Angeles,Chile,13.34
+1983,Los Angeles,Chile,13.00
+1984,Los Angeles,Chile,12.57
+1985,Los Angeles,Chile,13.35
+1986,Los Angeles,Chile,13.04
+1987,Los Angeles,Chile,13.53
+1988,Los Angeles,Chile,12.81
+1989,Los Angeles,Chile,13.23
+1990,Los Angeles,Chile,12.88
+1991,Los Angeles,Chile,13.00
+1992,Los Angeles,Chile,12.93
+1993,Los Angeles,Chile,13.26
+1994,Los Angeles,Chile,13.42
+1995,Los Angeles,Chile,13.02
+1996,Los Angeles,Chile,13.16
+1997,Los Angeles,Chile,13.66
+1998,Los Angeles,Chile,13.19
+1999,Los Angeles,Chile,13.24
+2000,Los Angeles,Chile,12.99
+2001,Los Angeles,Chile,13.16
+2002,Los Angeles,Chile,12.95
+2003,Los Angeles,Chile,13.24
+2004,Los Angeles,Chile,13.44
+2005,Los Angeles,Chile,13.06
+2006,Los Angeles,Chile,13.19
+2007,Los Angeles,Chile,12.31
+2008,Los Angeles,Chile,13.69
+2009,Los Angeles,Chile,13.04
+2010,Los Angeles,Chile,12.69
+2011,Los Angeles,Chile,13.25
+2012,Los Angeles,Chile,13.48
+2013,Los Angeles,Chile,13.07
+1849,Los Angeles,United States,15.71
+1850,Los Angeles,United States,15.28
+1851,Los Angeles,United States,15.53
+1852,Los Angeles,United States,15.61
+1853,Los Angeles,United States,16.27
+1854,Los Angeles,United States,15.74
+1855,Los Angeles,United States,15.94
+1856,Los Angeles,United States,15.52
+1857,Los Angeles,United States,16.19
+1858,Los Angeles,United States,15.67
+1859,Los Angeles,United States,15.29
+1860,Los Angeles,United States,15.41
+1861,Los Angeles,United States,16.51
+1862,Los Angeles,United States,16.05
+1863,Los Angeles,United States,15.88
+1864,Los Angeles,United States,16.62
+1865,Los Angeles,United States,15.89
+1866,Los Angeles,United States,16.33
+1867,Los Angeles,United States,16.51
+1868,Los Angeles,United States,16.09
+1869,Los Angeles,United States,16.05
+1870,Los Angeles,United States,15.64
+1871,Los Angeles,United States,15.89
+1872,Los Angeles,United States,15.66
+1873,Los Angeles,United States,15.70
+1874,Los Angeles,United States,15.33
+1875,Los Angeles,United States,16.19
+1876,Los Angeles,United States,15.70
+1877,Los Angeles,United States,16.24
+1878,Los Angeles,United States,15.44
+1879,Los Angeles,United States,15.55
+1880,Los Angeles,United States,14.36
+1881,Los Angeles,United States,15.65
+1882,Los Angeles,United States,14.85
+1883,Los Angeles,United States,15.52
+1884,Los Angeles,United States,15.28
+1885,Los Angeles,United States,16.44
+1886,Los Angeles,United States,15.74
+1887,Los Angeles,United States,15.62
+1888,Los Angeles,United States,15.91
+1889,Los Angeles,United States,16.22
+1890,Los Angeles,United States,15.80
+1891,Los Angeles,United States,15.63
+1892,Los Angeles,United States,15.33
+1893,Los Angeles,United States,14.95
+1894,Los Angeles,United States,14.83
+1895,Los Angeles,United States,15.36
+1896,Los Angeles,United States,16.10
+1897,Los Angeles,United States,15.32
+1898,Los Angeles,United States,15.65
+1899,Los Angeles,United States,15.59
+1900,Los Angeles,United States,16.08
+1901,Los Angeles,United States,15.72
+1902,Los Angeles,United States,15.08
+1903,Los Angeles,United States,15.49
+1904,Los Angeles,United States,16.24
+1905,Los Angeles,United States,15.52
+1906,Los Angeles,United States,15.74
+1907,Los Angeles,United States,15.46
+1908,Los Angeles,United States,15.17
+1909,Los Angeles,United States,15.01
+1910,Los Angeles,United States,15.94
+1911,Los Angeles,United States,14.82
+1912,Los Angeles,United States,14.84
+1913,Los Angeles,United States,15.20
+1914,Los Angeles,United States,15.65
+1915,Los Angeles,United States,15.43
+1916,Los Angeles,United States,14.60
+1917,Los Angeles,United States,15.59
+1918,Los Angeles,United States,15.65
+1919,Los Angeles,United States,15.34
+1920,Los Angeles,United States,15.06
+1921,Los Angeles,United States,15.76
+1922,Los Angeles,United States,15.31
+1923,Los Angeles,United States,15.39
+1924,Los Angeles,United States,15.69
+1925,Los Angeles,United States,15.72
+1926,Los Angeles,United States,16.60
+1927,Los Angeles,United States,15.41
+1928,Los Angeles,United States,15.98
+1929,Los Angeles,United States,16.10
+1930,Los Angeles,United States,15.99
+1931,Los Angeles,United States,16.60
+1932,Los Angeles,United States,15.40
+1933,Los Angeles,United States,15.40
+1934,Los Angeles,United States,17.03
+1935,Los Angeles,United States,15.50
+1936,Los Angeles,United States,16.60
+1937,Los Angeles,United States,15.68
+1938,Los Angeles,United States,15.89
+1939,Los Angeles,United States,16.30
+1940,Los Angeles,United States,16.53
+1941,Los Angeles,United States,15.62
+1942,Los Angeles,United States,15.77
+1943,Los Angeles,United States,16.12
+1944,Los Angeles,United States,15.03
+1945,Los Angeles,United States,15.70
+1946,Los Angeles,United States,15.65
+1947,Los Angeles,United States,15.98
+1948,Los Angeles,United States,15.09
+1949,Los Angeles,United States,15.36
+1950,Los Angeles,United States,16.20
+1951,Los Angeles,United States,15.76
+1952,Los Angeles,United States,15.33
+1953,Los Angeles,United States,15.68
+1954,Los Angeles,United States,16.05
+1955,Los Angeles,United States,15.34
+1956,Los Angeles,United States,15.70
+1957,Los Angeles,United States,15.80
+1958,Los Angeles,United States,16.70
+1959,Los Angeles,United States,17.05
+1960,Los Angeles,United States,16.31
+1961,Los Angeles,United States,16.21
+1962,Los Angeles,United States,15.62
+1963,Los Angeles,United States,15.73
+1964,Los Angeles,United States,15.28
+1965,Los Angeles,United States,15.34
+1966,Los Angeles,United States,15.99
+1967,Los Angeles,United States,15.92
+1968,Los Angeles,United States,15.89
+1969,Los Angeles,United States,15.79
+1970,Los Angeles,United States,16.00
+1971,Los Angeles,United States,15.26
+1972,Los Angeles,United States,15.96
+1973,Los Angeles,United States,15.51
+1974,Los Angeles,United States,15.85
+1975,Los Angeles,United States,15.12
+1976,Los Angeles,United States,16.18
+1977,Los Angeles,United States,16.26
+1978,Los Angeles,United States,16.01
+1979,Los Angeles,United States,15.88
+1980,Los Angeles,United States,16.23
+1981,Los Angeles,United States,16.89
+1982,Los Angeles,United States,15.44
+1983,Los Angeles,United States,16.20
+1984,Los Angeles,United States,16.76
+1985,Los Angeles,United States,15.96
+1986,Los Angeles,United States,16.50
+1987,Los Angeles,United States,16.09
+1988,Los Angeles,United States,16.44
+1989,Los Angeles,United States,16.36
+1990,Los Angeles,United States,16.37
+1991,Los Angeles,United States,16.00
+1992,Los Angeles,United States,16.79
+1993,Los Angeles,United States,16.36
+1994,Los Angeles,United States,16.29
+1995,Los Angeles,United States,16.64
+1996,Los Angeles,United States,17.08
+1997,Los Angeles,United States,16.93
+1998,Los Angeles,United States,15.37
+1999,Los Angeles,United States,16.12
+2000,Los Angeles,United States,16.64
+2001,Los Angeles,United States,16.47
+2002,Los Angeles,United States,16.43
+2003,Los Angeles,United States,16.94
+2004,Los Angeles,United States,16.55
+2005,Los Angeles,United States,16.43
+2006,Los Angeles,United States,16.62
+2007,Los Angeles,United States,16.70
+2008,Los Angeles,United States,17.01
+2009,Los Angeles,United States,16.68
+2010,Los Angeles,United States,15.89
+2011,Los Angeles,United States,15.87
+2012,Los Angeles,United States,17.09
+2013,Los Angeles,United States,18.12
+1758,Omaha,United States,12.19
+1759,Omaha,United States,9.56
+1760,Omaha,United States,-8.46
+1761,Omaha,United States,
+1762,Omaha,United States,
+1763,Omaha,United States,
+1764,Omaha,United States,
+1765,Omaha,United States,
+1766,Omaha,United States,
+1767,Omaha,United States,
+1768,Omaha,United States,8.80
+1769,Omaha,United States,9.11
+1770,Omaha,United States,9.67
+1771,Omaha,United States,10.23
+1772,Omaha,United States,
+1773,Omaha,United States,11.42
+1774,Omaha,United States,2.42
+1775,Omaha,United States,10.99
+1776,Omaha,United States,9.93
+1777,Omaha,United States,9.77
+1778,Omaha,United States,7.22
+1779,Omaha,United States,10.24
+1780,Omaha,United States,13.51
+1781,Omaha,United States,10.05
+1782,Omaha,United States,9.65
+1783,Omaha,United States,9.45
+1784,Omaha,United States,9.60
+1785,Omaha,United States,9.25
+1786,Omaha,United States,9.83
+1787,Omaha,United States,9.88
+1788,Omaha,United States,10.22
+1789,Omaha,United States,10.02
+1790,Omaha,United States,9.89
+1791,Omaha,United States,10.19
+1792,Omaha,United States,9.76
+1793,Omaha,United States,10.04
+1794,Omaha,United States,10.22
+1795,Omaha,United States,1.82
+1796,Omaha,United States,10.04
+1797,Omaha,United States,9.82
+1798,Omaha,United States,10.44
+1799,Omaha,United States,10.23
+1800,Omaha,United States,10.10
+1801,Omaha,United States,10.42
+1802,Omaha,United States,10.55
+1803,Omaha,United States,10.35
+1804,Omaha,United States,10.46
+1805,Omaha,United States,10.40
+1806,Omaha,United States,10.15
+1807,Omaha,United States,9.93
+1808,Omaha,United States,9.66
+1809,Omaha,United States,8.81
+1810,Omaha,United States,8.83
+1811,Omaha,United States,9.01
+1812,Omaha,United States,8.39
+1813,Omaha,United States,9.66
+1814,Omaha,United States,9.53
+1815,Omaha,United States,8.89
+1816,Omaha,United States,8.28
+1817,Omaha,United States,8.64
+1818,Omaha,United States,9.67
+1819,Omaha,United States,8.98
+1820,Omaha,United States,8.70
+1821,Omaha,United States,9.20
+1822,Omaha,United States,9.73
+1823,Omaha,United States,9.36
+1824,Omaha,United States,9.53
+1825,Omaha,United States,10.76
+1826,Omaha,United States,9.82
+1827,Omaha,United States,10.60
+1828,Omaha,United States,10.38
+1829,Omaha,United States,9.99
+1830,Omaha,United States,11.09
+1831,Omaha,United States,8.87
+1832,Omaha,United States,10.11
+1833,Omaha,United States,10.78
+1834,Omaha,United States,10.87
+1835,Omaha,United States,9.00
+1836,Omaha,United States,8.44
+1837,Omaha,United States,9.42
+1838,Omaha,United States,8.66
+1839,Omaha,United States,10.43
+1840,Omaha,United States,9.65
+1841,Omaha,United States,9.51
+1842,Omaha,United States,10.03
+1843,Omaha,United States,8.57
+1844,Omaha,United States,9.63
+1845,Omaha,United States,10.47
+1846,Omaha,United States,11.12
+1847,Omaha,United States,8.74
+1848,Omaha,United States,9.21
+1849,Omaha,United States,9.15
+1850,Omaha,United States,9.55
+1851,Omaha,United States,10.27
+1852,Omaha,United States,9.42
+1853,Omaha,United States,9.58
+1854,Omaha,United States,10.96
+1855,Omaha,United States,9.73
+1856,Omaha,United States,8.71
+1857,Omaha,United States,8.92
+1858,Omaha,United States,10.07
+1859,Omaha,United States,9.32
+1860,Omaha,United States,10.50
+1861,Omaha,United States,9.96
+1862,Omaha,United States,9.31
+1863,Omaha,United States,9.84
+1864,Omaha,United States,9.48
+1865,Omaha,United States,9.73
+1866,Omaha,United States,9.05
+1867,Omaha,United States,8.85
+1868,Omaha,United States,9.01
+1869,Omaha,United States,8.42
+1870,Omaha,United States,10.16
+1871,Omaha,United States,9.94
+1872,Omaha,United States,8.59
+1873,Omaha,United States,8.70
+1874,Omaha,United States,9.93
+1875,Omaha,United States,7.81
+1876,Omaha,United States,8.99
+1877,Omaha,United States,10.09
+1878,Omaha,United States,11.00
+1879,Omaha,United States,10.29
+1880,Omaha,United States,9.99
+1881,Omaha,United States,9.78
+1882,Omaha,United States,10.42
+1883,Omaha,United States,8.72
+1884,Omaha,United States,8.92
+1885,Omaha,United States,8.65
+1886,Omaha,United States,9.19
+1887,Omaha,United States,9.55
+1888,Omaha,United States,9.01
+1889,Omaha,United States,10.24
+1890,Omaha,United States,10.13
+1891,Omaha,United States,9.54
+1892,Omaha,United States,9.24
+1893,Omaha,United States,8.98
+1894,Omaha,United States,10.53
+1895,Omaha,United States,9.62
+1896,Omaha,United States,10.11
+1897,Omaha,United States,9.82
+1898,Omaha,United States,9.68
+1899,Omaha,United States,9.51
+1900,Omaha,United States,10.70
+1901,Omaha,United States,10.43
+1902,Omaha,United States,9.57
+1903,Omaha,United States,9.46
+1904,Omaha,United States,9.19
+1905,Omaha,United States,9.47
+1906,Omaha,United States,10.06
+1907,Omaha,United States,9.66
+1908,Omaha,United States,10.60
+1909,Omaha,United States,9.55
+1910,Omaha,United States,10.40
+1911,Omaha,United States,10.87
+1912,Omaha,United States,9.06
+1913,Omaha,United States,10.84
+1914,Omaha,United States,10.60
+1915,Omaha,United States,9.60
+1916,Omaha,United States,9.44
+1917,Omaha,United States,8.58
+1918,Omaha,United States,10.88
+1919,Omaha,United States,10.15
+1920,Omaha,United States,10.06
+1921,Omaha,United States,12.24
+1922,Omaha,United States,10.97
+1923,Omaha,United States,10.35
+1924,Omaha,United States,8.86
+1925,Omaha,United States,10.33
+1926,Omaha,United States,10.31
+1927,Omaha,United States,10.19
+1928,Omaha,United States,10.60
+1929,Omaha,United States,9.00
+1930,Omaha,United States,11.08
+1931,Omaha,United States,12.29
+1932,Omaha,United States,9.67
+1933,Omaha,United States,11.43
+1934,Omaha,United States,12.09
+1935,Omaha,United States,10.36
+1936,Omaha,United States,10.18
+1937,Omaha,United States,9.74
+1938,Omaha,United States,11.77
+1939,Omaha,United States,11.83
+1940,Omaha,United States,9.76
+1941,Omaha,United States,11.47
+1942,Omaha,United States,10.40
+1943,Omaha,United States,10.14
+1944,Omaha,United States,10.35
+1945,Omaha,United States,9.88
+1946,Omaha,United States,11.64
+1947,Omaha,United States,10.56
+1948,Omaha,United States,10.36
+1949,Omaha,United States,10.30
+1950,Omaha,United States,9.14
+1951,Omaha,United States,8.72
+1952,Omaha,United States,10.52
+1953,Omaha,United States,11.62
+1954,Omaha,United States,11.84
+1955,Omaha,United States,10.66
+1956,Omaha,United States,11.20
+1957,Omaha,United States,10.42
+1958,Omaha,United States,10.18
+1959,Omaha,United States,10.17
+1960,Omaha,United States,9.44
+1961,Omaha,United States,9.84
+1962,Omaha,United States,10.17
+1963,Omaha,United States,11.01
+1964,Omaha,United States,10.96
+1965,Omaha,United States,10.22
+1966,Omaha,United States,9.99
+1967,Omaha,United States,10.13
+1968,Omaha,United States,10.45
+1969,Omaha,United States,9.76
+1970,Omaha,United States,10.53
+1971,Omaha,United States,10.48
+1972,Omaha,United States,9.83
+1973,Omaha,United States,10.83
+1974,Omaha,United States,10.88
+1975,Omaha,United States,10.33
+1976,Omaha,United States,10.68
+1977,Omaha,United States,11.20
+1978,Omaha,United States,9.13
+1979,Omaha,United States,9.13
+1980,Omaha,United States,10.86
+1981,Omaha,United States,11.33
+1982,Omaha,United States,9.59
+1983,Omaha,United States,10.25
+1984,Omaha,United States,10.56
+1985,Omaha,United States,9.47
+1986,Omaha,United States,11.25
+1987,Omaha,United States,12.07
+1988,Omaha,United States,11.27
+1989,Omaha,United States,10.00
+1990,Omaha,United States,11.45
+1991,Omaha,United States,11.15
+1992,Omaha,United States,10.82
+1993,Omaha,United States,9.29
+1994,Omaha,United States,10.68
+1995,Omaha,United States,10.46
+1996,Omaha,United States,9.27
+1997,Omaha,United States,10.39
+1998,Omaha,United States,12.03
+1999,Omaha,United States,11.63
+2000,Omaha,United States,11.29
+2001,Omaha,United States,11.51
+2002,Omaha,United States,11.41
+2003,Omaha,United States,10.90
+2004,Omaha,United States,11.09
+2005,Omaha,United States,11.78
+2006,Omaha,United States,12.18
+2007,Omaha,United States,11.35
+2008,Omaha,United States,9.79
+2009,Omaha,United States,10.02
+2010,Omaha,United States,10.82
+2011,Omaha,United States,10.92
+2012,Omaha,United States,13.08
+2013,Omaha,United States,12.56
+1835,Phoenix,United States,19.51
+1836,Phoenix,United States,19.92
+1837,Phoenix,United States,20.04
+1838,Phoenix,United States,19.84
+1839,Phoenix,United States,20.32
+1840,Phoenix,United States,20.23
+1841,Phoenix,United States,20.27
+1842,Phoenix,United States,20.58
+1843,Phoenix,United States,21.06
+1844,Phoenix,United States,20.22
+1845,Phoenix,United States,20.48
+1846,Phoenix,United States,21.18
+1847,Phoenix,United States,20.28
+1848,Phoenix,United States,23.14
+1849,Phoenix,United States,20.87
+1850,Phoenix,United States,20.51
+1851,Phoenix,United States,20.64
+1852,Phoenix,United States,20.39
+1853,Phoenix,United States,21.40
+1854,Phoenix,United States,21.20
+1855,Phoenix,United States,21.37
+1856,Phoenix,United States,20.85
+1857,Phoenix,United States,21.31
+1858,Phoenix,United States,20.67
+1859,Phoenix,United States,20.42
+1860,Phoenix,United States,20.75
+1861,Phoenix,United States,21.80
+1862,Phoenix,United States,21.34
+1863,Phoenix,United States,21.22
+1864,Phoenix,United States,21.52
+1865,Phoenix,United States,21.08
+1866,Phoenix,United States,21.55
+1867,Phoenix,United States,22.28
+1868,Phoenix,United States,21.42
+1869,Phoenix,United States,21.08
+1870,Phoenix,United States,20.91
+1871,Phoenix,United States,21.25
+1872,Phoenix,United States,20.66
+1873,Phoenix,United States,21.15
+1874,Phoenix,United States,20.86
+1875,Phoenix,United States,21.17
+1876,Phoenix,United States,20.98
+1877,Phoenix,United States,21.27
+1878,Phoenix,United States,20.87
+1879,Phoenix,United States,21.67
+1880,Phoenix,United States,20.38
+1881,Phoenix,United States,20.57
+1882,Phoenix,United States,20.63
+1883,Phoenix,United States,20.64
+1884,Phoenix,United States,20.01
+1885,Phoenix,United States,20.95
+1886,Phoenix,United States,20.78
+1887,Phoenix,United States,21.16
+1888,Phoenix,United States,21.11
+1889,Phoenix,United States,21.25
+1890,Phoenix,United States,21.06
+1891,Phoenix,United States,20.32
+1892,Phoenix,United States,20.74
+1893,Phoenix,United States,21.06
+1894,Phoenix,United States,20.57
+1895,Phoenix,United States,20.66
+1896,Phoenix,United States,21.25
+1897,Phoenix,United States,20.47
+1898,Phoenix,United States,20.61
+1899,Phoenix,United States,20.69
+1900,Phoenix,United States,21.35
+1901,Phoenix,United States,21.08
+1902,Phoenix,United States,20.97
+1903,Phoenix,United States,20.84
+1904,Phoenix,United States,21.29
+1905,Phoenix,United States,20.83
+1906,Phoenix,United States,20.87
+1907,Phoenix,United States,20.91
+1908,Phoenix,United States,20.68
+1909,Phoenix,United States,20.64
+1910,Phoenix,United States,21.95
+1911,Phoenix,United States,20.61
+1912,Phoenix,United States,19.83
+1913,Phoenix,United States,20.17
+1914,Phoenix,United States,21.43
+1915,Phoenix,United States,20.36
+1916,Phoenix,United States,20.74
+1917,Phoenix,United States,20.68
+1918,Phoenix,United States,20.81
+1919,Phoenix,United States,20.45
+1920,Phoenix,United States,20.36
+1921,Phoenix,United States,21.27
+1922,Phoenix,United States,20.79
+1923,Phoenix,United States,20.44
+1924,Phoenix,United States,20.96
+1925,Phoenix,United States,21.08
+1926,Phoenix,United States,21.26
+1927,Phoenix,United States,21.30
+1928,Phoenix,United States,21.34
+1929,Phoenix,United States,20.71
+1930,Phoenix,United States,20.77
+1931,Phoenix,United States,21.14
+1932,Phoenix,United States,20.65
+1933,Phoenix,United States,20.83
+1934,Phoenix,United States,22.25
+1935,Phoenix,United States,20.71
+1936,Phoenix,United States,21.77
+1937,Phoenix,United States,21.14
+1938,Phoenix,United States,20.98
+1939,Phoenix,United States,21.32
+1940,Phoenix,United States,22.06
+1941,Phoenix,United States,20.32
+1942,Phoenix,United States,20.90
+1943,Phoenix,United States,21.73
+1944,Phoenix,United States,20.25
+1945,Phoenix,United States,20.51
+1946,Phoenix,United States,20.88
+1947,Phoenix,United States,21.14
+1948,Phoenix,United States,20.81
+1949,Phoenix,United States,20.72
+1950,Phoenix,United States,21.78
+1951,Phoenix,United States,20.87
+1952,Phoenix,United States,20.88
+1953,Phoenix,United States,20.91
+1954,Phoenix,United States,21.89
+1955,Phoenix,United States,20.41
+1956,Phoenix,United States,21.12
+1957,Phoenix,United States,21.27
+1958,Phoenix,United States,21.74
+1959,Phoenix,United States,21.59
+1960,Phoenix,United States,21.15
+1961,Phoenix,United States,21.11
+1962,Phoenix,United States,21.35
+1963,Phoenix,United States,21.25
+1964,Phoenix,United States,19.99
+1965,Phoenix,United States,20.50
+1966,Phoenix,United States,21.06
+1967,Phoenix,United States,20.84
+1968,Phoenix,United States,20.61
+1969,Phoenix,United States,21.15
+1970,Phoenix,United States,20.87
+1971,Phoenix,United States,20.29
+1972,Phoenix,United States,21.16
+1973,Phoenix,United States,20.60
+1974,Phoenix,United States,21.05
+1975,Phoenix,United States,20.10
+1976,Phoenix,United States,20.79
+1977,Phoenix,United States,21.51
+1978,Phoenix,United States,21.22
+1979,Phoenix,United States,20.69
+1980,Phoenix,United States,21.55
+1981,Phoenix,United States,22.11
+1982,Phoenix,United States,20.68
+1983,Phoenix,United States,20.83
+1984,Phoenix,United States,20.99
+1985,Phoenix,United States,20.97
+1986,Phoenix,United States,21.61
+1987,Phoenix,United States,21.18
+1988,Phoenix,United States,21.58
+1989,Phoenix,United States,22.15
+1990,Phoenix,United States,21.21
+1991,Phoenix,United States,20.96
+1992,Phoenix,United States,21.21
+1993,Phoenix,United States,21.20
+1994,Phoenix,United States,21.50
+1995,Phoenix,United States,21.85
+1996,Phoenix,United States,22.29
+1997,Phoenix,United States,21.89
+1998,Phoenix,United States,20.71
+1999,Phoenix,United States,21.70
+2000,Phoenix,United States,22.00
+2001,Phoenix,United States,21.92
+2002,Phoenix,United States,21.90
+2003,Phoenix,United States,22.15
+2004,Phoenix,United States,21.52
+2005,Phoenix,United States,21.81
+2006,Phoenix,United States,21.85
+2007,Phoenix,United States,22.11
+2008,Phoenix,United States,21.69
+2009,Phoenix,United States,22.10
+2010,Phoenix,United States,21.58
+2011,Phoenix,United States,21.56
+2012,Phoenix,United States,22.31
+2013,Phoenix,United States,23.56
+1849,San Francisco,United States,14.12
+1850,San Francisco,United States,13.80
+1851,San Francisco,United States,14.39
+1852,San Francisco,United States,13.81
+1853,San Francisco,United States,14.40
+1854,San Francisco,United States,13.98
+1855,San Francisco,United States,14.20
+1856,San Francisco,United States,14.10
+1857,San Francisco,United States,14.78
+1858,San Francisco,United States,14.19
+1859,San Francisco,United States,13.71
+1860,San Francisco,United States,13.81
+1861,San Francisco,United States,14.88
+1862,San Francisco,United States,14.43
+1863,San Francisco,United States,14.43
+1864,San Francisco,United States,15.18
+1865,San Francisco,United States,14.32
+1866,San Francisco,United States,14.67
+1867,San Francisco,United States,14.46
+1868,San Francisco,United States,14.25
+1869,San Francisco,United States,14.57
+1870,San Francisco,United States,14.19
+1871,San Francisco,United States,14.34
+1872,San Francisco,United States,14.63
+1873,San Francisco,United States,14.46
+1874,San Francisco,United States,14.09
+1875,San Francisco,United States,14.76
+1876,San Francisco,United States,14.44
+1877,San Francisco,United States,15.03
+1878,San Francisco,United States,14.37
+1879,San Francisco,United States,14.20
+1880,San Francisco,United States,13.22
+1881,San Francisco,United States,14.39
+1882,San Francisco,United States,13.58
+1883,San Francisco,United States,13.93
+1884,San Francisco,United States,14.05
+1885,San Francisco,United States,15.05
+1886,San Francisco,United States,14.58
+1887,San Francisco,United States,14.38
+1888,San Francisco,United States,14.70
+1889,San Francisco,United States,14.81
+1890,San Francisco,United States,14.05
+1891,San Francisco,United States,14.46
+1892,San Francisco,United States,14.05
+1893,San Francisco,United States,13.40
+1894,San Francisco,United States,13.80
+1895,San Francisco,United States,13.95
+1896,San Francisco,United States,14.22
+1897,San Francisco,United States,13.81
+1898,San Francisco,United States,13.77
+1899,San Francisco,United States,14.04
+1900,San Francisco,United States,14.64
+1901,San Francisco,United States,14.34
+1902,San Francisco,United States,14.07
+1903,San Francisco,United States,14.12
+1904,San Francisco,United States,14.50
+1905,San Francisco,United States,14.39
+1906,San Francisco,United States,14.81
+1907,San Francisco,United States,14.34
+1908,San Francisco,United States,14.01
+1909,San Francisco,United States,14.05
+1910,San Francisco,United States,14.17
+1911,San Francisco,United States,13.46
+1912,San Francisco,United States,13.95
+1913,San Francisco,United States,14.38
+1914,San Francisco,United States,14.33
+1915,San Francisco,United States,14.30
+1916,San Francisco,United States,13.61
+1917,San Francisco,United States,14.06
+1918,San Francisco,United States,14.14
+1919,San Francisco,United States,13.60
+1920,San Francisco,United States,13.72
+1921,San Francisco,United States,14.24
+1922,San Francisco,United States,13.61
+1923,San Francisco,United States,14.13
+1924,San Francisco,United States,14.10
+1925,San Francisco,United States,14.34
+1926,San Francisco,United States,15.14
+1927,San Francisco,United States,14.24
+1928,San Francisco,United States,14.32
+1929,San Francisco,United States,14.25
+1930,San Francisco,United States,14.25
+1931,San Francisco,United States,14.93
+1932,San Francisco,United States,14.24
+1933,San Francisco,United States,13.93
+1934,San Francisco,United States,15.31
+1935,San Francisco,United States,14.12
+1936,San Francisco,United States,15.13
+1937,San Francisco,United States,14.36
+1938,San Francisco,United States,14.35
+1939,San Francisco,United States,14.81
+1940,San Francisco,United States,15.12
+1941,San Francisco,United States,14.98
+1942,San Francisco,United States,14.20
+1943,San Francisco,United States,14.72
+1944,San Francisco,United States,14.17
+1945,San Francisco,United States,14.41
+1946,San Francisco,United States,13.83
+1947,San Francisco,United States,14.51
+1948,San Francisco,United States,13.65
+1949,San Francisco,United States,13.90
+1950,San Francisco,United States,14.66
+1951,San Francisco,United States,14.06
+1952,San Francisco,United States,14.11
+1953,San Francisco,United States,14.42
+1954,San Francisco,United States,14.18
+1955,San Francisco,United States,13.74
+1956,San Francisco,United States,14.08
+1957,San Francisco,United States,14.59
+1958,San Francisco,United States,15.41
+1959,San Francisco,United States,15.39
+1960,San Francisco,United States,14.59
+1961,San Francisco,United States,14.65
+1962,San Francisco,United States,14.22
+1963,San Francisco,United States,14.19
+1964,San Francisco,United States,14.24
+1965,San Francisco,United States,14.14
+1966,San Francisco,United States,14.74
+1967,San Francisco,United States,14.50
+1968,San Francisco,United States,14.66
+1969,San Francisco,United States,14.51
+1970,San Francisco,United States,14.76
+1971,San Francisco,United States,13.89
+1972,San Francisco,United States,14.25
+1973,San Francisco,United States,14.58
+1974,San Francisco,United States,14.41
+1975,San Francisco,United States,13.82
+1976,San Francisco,United States,14.72
+1977,San Francisco,United States,14.63
+1978,San Francisco,United States,14.96
+1979,San Francisco,United States,14.99
+1980,San Francisco,United States,14.74
+1981,San Francisco,United States,15.22
+1982,San Francisco,United States,14.00
+1983,San Francisco,United States,15.07
+1984,San Francisco,United States,14.97
+1985,San Francisco,United States,14.23
+1986,San Francisco,United States,15.00
+1987,San Francisco,United States,14.95
+1988,San Francisco,United States,15.08
+1989,San Francisco,United States,14.45
+1990,San Francisco,United States,14.73
+1991,San Francisco,United States,14.50
+1992,San Francisco,United States,15.53
+1993,San Francisco,United States,14.97
+1994,San Francisco,United States,14.21
+1995,San Francisco,United States,15.31
+1996,San Francisco,United States,15.56
+1997,San Francisco,United States,15.75
+1998,San Francisco,United States,14.38
+1999,San Francisco,United States,14.41
+2000,San Francisco,United States,15.02
+2001,San Francisco,United States,15.25
+2002,San Francisco,United States,15.00
+2003,San Francisco,United States,15.43
+2004,San Francisco,United States,15.37
+2005,San Francisco,United States,15.17
+2006,San Francisco,United States,15.02
+2007,San Francisco,United States,14.94
+2008,San Francisco,United States,15.05
+2009,San Francisco,United States,15.02
+2010,San Francisco,United States,14.67
+2011,San Francisco,United States,14.50
+2012,San Francisco,United States,15.05
+2013,San Francisco,United States,16.23
+1828,Seattle,United States,7.13
+1829,Seattle,United States,6.80
+1830,Seattle,United States,
+1831,Seattle,United States,
+1832,Seattle,United States,3.52
+1833,Seattle,United States,7.48
+1834,Seattle,United States,7.10
+1835,Seattle,United States,5.58
+1836,Seattle,United States,6.74
+1837,Seattle,United States,6.81
+1838,Seattle,United States,6.59
+1839,Seattle,United States,7.30
+1840,Seattle,United States,6.69
+1841,Seattle,United States,6.81
+1842,Seattle,United States,6.88
+1843,Seattle,United States,6.55
+1844,Seattle,United States,6.41
+1845,Seattle,United States,6.88
+1846,Seattle,United States,
+1847,Seattle,United States,8.99
+1848,Seattle,United States,6.60
+1849,Seattle,United States,6.68
+1850,Seattle,United States,7.06
+1851,Seattle,United States,7.79
+1852,Seattle,United States,7.08
+1853,Seattle,United States,7.61
+1854,Seattle,United States,6.99
+1855,Seattle,United States,7.31
+1856,Seattle,United States,7.44
+1857,Seattle,United States,7.91
+1858,Seattle,United States,6.91
+1859,Seattle,United States,6.27
+1860,Seattle,United States,7.63
+1861,Seattle,United States,7.18
+1862,Seattle,United States,6.36
+1863,Seattle,United States,7.44
+1864,Seattle,United States,7.64
+1865,Seattle,United States,7.05
+1866,Seattle,United States,7.39
+1867,Seattle,United States,7.12
+1868,Seattle,United States,6.99
+1869,Seattle,United States,8.33
+1870,Seattle,United States,7.85
+1871,Seattle,United States,7.97
+1872,Seattle,United States,7.34
+1873,Seattle,United States,7.47
+1874,Seattle,United States,7.32
+1875,Seattle,United States,6.90
+1876,Seattle,United States,7.12
+1877,Seattle,United States,8.14
+1878,Seattle,United States,7.89
+1879,Seattle,United States,6.74
+1880,Seattle,United States,5.95
+1881,Seattle,United States,6.86
+1882,Seattle,United States,6.88
+1883,Seattle,United States,6.97
+1884,Seattle,United States,6.81
+1885,Seattle,United States,8.66
+1886,Seattle,United States,7.85
+1887,Seattle,United States,6.77
+1888,Seattle,United States,7.73
+1889,Seattle,United States,8.08
+1890,Seattle,United States,7.03
+1891,Seattle,United States,7.61
+1892,Seattle,United States,7.54
+1893,Seattle,United States,6.16
+1894,Seattle,United States,6.88
+1895,Seattle,United States,7.26
+1896,Seattle,United States,7.20
+1897,Seattle,United States,7.50
+1898,Seattle,United States,7.60
+1899,Seattle,United States,7.08
+1900,Seattle,United States,7.95
+1901,Seattle,United States,7.27
+1902,Seattle,United States,7.33
+1903,Seattle,United States,6.98
+1904,Seattle,United States,7.70
+1905,Seattle,United States,7.59
+1906,Seattle,United States,7.99
+1907,Seattle,United States,7.28
+1908,Seattle,United States,7.32
+1909,Seattle,United States,6.52
+1910,Seattle,United States,7.24
+1911,Seattle,United States,6.73
+1912,Seattle,United States,7.43
+1913,Seattle,United States,6.99
+1914,Seattle,United States,7.92
+1915,Seattle,United States,8.13
+1916,Seattle,United States,6.23
+1917,Seattle,United States,7.25
+1918,Seattle,United States,7.85
+1919,Seattle,United States,6.94
+1920,Seattle,United States,7.19
+1921,Seattle,United States,7.20
+1922,Seattle,United States,6.66
+1923,Seattle,United States,7.82
+1924,Seattle,United States,7.46
+1925,Seattle,United States,8.26
+1926,Seattle,United States,8.72
+1927,Seattle,United States,7.30
+1928,Seattle,United States,7.86
+1929,Seattle,United States,6.96
+1930,Seattle,United States,7.23
+1931,Seattle,United States,8.00
+1932,Seattle,United States,7.37
+1933,Seattle,United States,7.06
+1934,Seattle,United States,9.04
+1935,Seattle,United States,7.33
+1936,Seattle,United States,7.67
+1937,Seattle,United States,7.39
+1938,Seattle,United States,8.12
+1939,Seattle,United States,8.25
+1940,Seattle,United States,8.81
+1941,Seattle,United States,8.83
+1942,Seattle,United States,8.10
+1943,Seattle,United States,7.51
+1944,Seattle,United States,7.84
+1945,Seattle,United States,7.57
+1946,Seattle,United States,7.39
+1947,Seattle,United States,8.03
+1948,Seattle,United States,6.68
+1949,Seattle,United States,7.05
+1950,Seattle,United States,6.77
+1951,Seattle,United States,7.33
+1952,Seattle,United States,7.56
+1953,Seattle,United States,8.11
+1954,Seattle,United States,7.04
+1955,Seattle,United States,6.09
+1956,Seattle,United States,7.18
+1957,Seattle,United States,7.52
+1958,Seattle,United States,9.28
+1959,Seattle,United States,7.50
+1960,Seattle,United States,7.51
+1961,Seattle,United States,8.12
+1962,Seattle,United States,7.66
+1963,Seattle,United States,7.91
+1964,Seattle,United States,6.83
+1965,Seattle,United States,7.91
+1966,Seattle,United States,7.88
+1967,Seattle,United States,8.38
+1968,Seattle,United States,7.73
+1969,Seattle,United States,7.51
+1970,Seattle,United States,7.55
+1971,Seattle,United States,7.10
+1972,Seattle,United States,7.09
+1973,Seattle,United States,7.58
+1974,Seattle,United States,7.72
+1975,Seattle,United States,7.09
+1976,Seattle,United States,7.46
+1977,Seattle,United States,7.63
+1978,Seattle,United States,7.78
+1979,Seattle,United States,7.88
+1980,Seattle,United States,7.75
+1981,Seattle,United States,8.23
+1982,Seattle,United States,7.35
+1983,Seattle,United States,7.94
+1984,Seattle,United States,7.41
+1985,Seattle,United States,6.71
+1986,Seattle,United States,8.25
+1987,Seattle,United States,8.67
+1988,Seattle,United States,8.10
+1989,Seattle,United States,7.87
+1990,Seattle,United States,8.09
+1991,Seattle,United States,8.20
+1992,Seattle,United States,9.03
+1993,Seattle,United States,7.68
+1994,Seattle,United States,8.35
+1995,Seattle,United States,8.62
+1996,Seattle,United States,7.61
+1997,Seattle,United States,8.41
+1998,Seattle,United States,8.70
+1999,Seattle,United States,7.79
+2000,Seattle,United States,7.72
+2001,Seattle,United States,7.90
+2002,Seattle,United States,8.03
+2003,Seattle,United States,8.74
+2004,Seattle,United States,9.04
+2005,Seattle,United States,8.57
+2006,Seattle,United States,8.49
+2007,Seattle,United States,8.04
+2008,Seattle,United States,7.57
+2009,Seattle,United States,8.02
+2010,Seattle,United States,8.25
+2011,Seattle,United States,7.35
+2012,Seattle,United States,8.08
+2013,Seattle,United States,9.95
+1743,Washington,United States,5.34
+1744,Washington,United States,13.88
+1745,Washington,United States,4.00
+1746,Washington,United States,
+1747,Washington,United States,
+1748,Washington,United States,
+1749,Washington,United States,
+1750,Washington,United States,12.51
+1751,Washington,United States,13.28
+1752,Washington,United States,5.45
+1753,Washington,United States,11.91
+1754,Washington,United States,12.22
+1755,Washington,United States,9.15
+1756,Washington,United States,12.26
+1757,Washington,United States,11.36
+1758,Washington,United States,10.48
+1759,Washington,United States,11.43
+1760,Washington,United States,10.10
+1761,Washington,United States,12.55
+1762,Washington,United States,11.92
+1763,Washington,United States,9.70
+1764,Washington,United States,11.92
+1765,Washington,United States,11.39
+1766,Washington,United States,12.45
+1767,Washington,United States,10.97
+1768,Washington,United States,10.90
+1769,Washington,United States,11.52
+1770,Washington,United States,11.39
+1771,Washington,United States,12.66
+1772,Washington,United States,12.07
+1773,Washington,United States,12.41
+1774,Washington,United States,11.89
+1775,Washington,United States,12.66
+1776,Washington,United States,11.58
+1777,Washington,United States,11.23
+1778,Washington,United States,9.16
+1779,Washington,United States,3.15
+1780,Washington,United States,
+1781,Washington,United States,12.14
+1782,Washington,United States,11.55
+1783,Washington,United States,11.24
+1784,Washington,United States,10.93
+1785,Washington,United States,10.94
+1786,Washington,United States,11.45
+1787,Washington,United States,11.45
+1788,Washington,United States,12.16
+1789,Washington,United States,11.84
+1790,Washington,United States,11.79
+1791,Washington,United States,11.83
+1792,Washington,United States,11.22
+1793,Washington,United States,12.21
+1794,Washington,United States,12.20
+1795,Washington,United States,11.69
+1796,Washington,United States,11.45
+1797,Washington,United States,11.35
+1798,Washington,United States,12.30
+1799,Washington,United States,11.81
+1800,Washington,United States,11.86
+1801,Washington,United States,12.27
+1802,Washington,United States,12.58
+1803,Washington,United States,12.47
+1804,Washington,United States,12.17
+1805,Washington,United States,12.73
+1806,Washington,United States,11.83
+1807,Washington,United States,11.62
+1808,Washington,United States,11.89
+1809,Washington,United States,11.16
+1810,Washington,United States,11.55
+1811,Washington,United States,11.65
+1812,Washington,United States,10.24
+1813,Washington,United States,11.35
+1814,Washington,United States,11.13
+1815,Washington,United States,10.70
+1816,Washington,United States,10.32
+1817,Washington,United States,10.25
+1818,Washington,United States,10.68
+1819,Washington,United States,11.38
+1820,Washington,United States,11.47
+1821,Washington,United States,10.77
+1822,Washington,United States,12.22
+1823,Washington,United States,11.44
+1824,Washington,United States,11.89
+1825,Washington,United States,12.56
+1826,Washington,United States,12.63
+1827,Washington,United States,12.32
+1828,Washington,United States,13.40
+1829,Washington,United States,11.49
+1830,Washington,United States,12.81
+1831,Washington,United States,10.99
+1832,Washington,United States,11.76
+1833,Washington,United States,11.90
+1834,Washington,United States,12.06
+1835,Washington,United States,11.32
+1836,Washington,United States,10.35
+1837,Washington,United States,11.19
+1838,Washington,United States,11.40
+1839,Washington,United States,11.70
+1840,Washington,United States,11.84
+1841,Washington,United States,11.40
+1842,Washington,United States,12.00
+1843,Washington,United States,11.01
+1844,Washington,United States,11.83
+1845,Washington,United States,12.03
+1846,Washington,United States,12.34
+1847,Washington,United States,11.65
+1848,Washington,United States,11.88
+1849,Washington,United States,11.38
+1850,Washington,United States,11.77
+1851,Washington,United States,12.01
+1852,Washington,United States,11.50
+1853,Washington,United States,12.31
+1854,Washington,United States,12.50
+1855,Washington,United States,11.79
+1856,Washington,United States,10.57
+1857,Washington,United States,10.82
+1858,Washington,United States,11.83
+1859,Washington,United States,11.82
+1860,Washington,United States,11.76
+1861,Washington,United States,12.00
+1862,Washington,United States,11.45
+1863,Washington,United States,11.39
+1864,Washington,United States,11.51
+1865,Washington,United States,11.92
+1866,Washington,United States,11.47
+1867,Washington,United States,10.90
+1868,Washington,United States,10.44
+1869,Washington,United States,11.20
+1870,Washington,United States,12.22
+1871,Washington,United States,11.76
+1872,Washington,United States,11.24
+1873,Washington,United States,11.10
+1874,Washington,United States,11.79
+1875,Washington,United States,10.33
+1876,Washington,United States,11.52
+1877,Washington,United States,12.30
+1878,Washington,United States,12.53
+1879,Washington,United States,11.91
+1880,Washington,United States,12.33
+1881,Washington,United States,12.50
+1882,Washington,United States,11.88
+1883,Washington,United States,11.36
+1884,Washington,United States,12.02
+1885,Washington,United States,10.88
+1886,Washington,United States,11.20
+1887,Washington,United States,11.74
+1888,Washington,United States,11.09
+1889,Washington,United States,12.02
+1890,Washington,United States,12.47
+1891,Washington,United States,12.04
+1892,Washington,United States,11.40
+1893,Washington,United States,11.16
+1894,Washington,United States,12.49
+1895,Washington,United States,11.37
+1896,Washington,United States,12.15
+1897,Washington,United States,11.81
+1898,Washington,United States,12.55
+1899,Washington,United States,11.73
+1900,Washington,United States,12.71
+1901,Washington,United States,11.32
+1902,Washington,United States,11.76
+1903,Washington,United States,11.57
+1904,Washington,United States,10.37
+1905,Washington,United States,11.49
+1906,Washington,United States,12.34
+1907,Washington,United States,10.87
+1908,Washington,United States,12.06
+1909,Washington,United States,11.93
+1910,Washington,United States,11.89
+1911,Washington,United States,12.53
+1912,Washington,United States,11.49
+1913,Washington,United States,12.98
+1914,Washington,United States,11.61
+1915,Washington,United States,11.92
+1916,Washington,United States,11.60
+1917,Washington,United States,10.55
+1918,Washington,United States,11.86
+1919,Washington,United States,12.37
+1920,Washington,United States,11.40
+1921,Washington,United States,13.37
+1922,Washington,United States,12.46
+1923,Washington,United States,12.17
+1924,Washington,United States,11.13
+1925,Washington,United States,12.13
+1926,Washington,United States,11.25
+1927,Washington,United States,12.15
+1928,Washington,United States,11.94
+1929,Washington,United States,12.13
+1930,Washington,United States,12.64
+1931,Washington,United States,13.26
+1932,Washington,United States,12.75
+1933,Washington,United States,12.60
+1934,Washington,United States,11.98
+1935,Washington,United States,11.81
+1936,Washington,United States,12.00
+1937,Washington,United States,12.23
+1938,Washington,United States,12.79
+1939,Washington,United States,12.75
+1940,Washington,United States,11.02
+1941,Washington,United States,12.58
+1942,Washington,United States,12.40
+1943,Washington,United States,12.24
+1944,Washington,United States,12.27
+1945,Washington,United States,12.31
+1946,Washington,United States,12.88
+1947,Washington,United States,12.06
+1948,Washington,United States,12.20
+1949,Washington,United States,13.37
+1950,Washington,United States,12.04
+1951,Washington,United States,12.37
+1952,Washington,United States,12.63
+1953,Washington,United States,13.29
+1954,Washington,United States,12.69
+1955,Washington,United States,12.48
+1956,Washington,United States,12.30
+1957,Washington,United States,12.74
+1958,Washington,United States,11.34
+1959,Washington,United States,13.06
+1960,Washington,United States,11.78
+1961,Washington,United States,12.11
+1962,Washington,United States,11.61
+1963,Washington,United States,11.58
+1964,Washington,United States,12.33
+1965,Washington,United States,12.18
+1966,Washington,United States,11.89
+1967,Washington,United States,11.60
+1968,Washington,United States,12.15
+1969,Washington,United States,11.98
+1970,Washington,United States,12.29
+1971,Washington,United States,12.43
+1972,Washington,United States,11.89
+1973,Washington,United States,13.04
+1974,Washington,United States,12.51
+1975,Washington,United States,12.67
+1976,Washington,United States,11.85
+1977,Washington,United States,12.34
+1978,Washington,United States,11.56
+1979,Washington,United States,11.88
+1980,Washington,United States,12.22
+1981,Washington,United States,12.00
+1982,Washington,United States,12.16
+1983,Washington,United States,12.48
+1984,Washington,United States,12.42
+1985,Washington,United States,12.79
+1986,Washington,United States,12.65
+1987,Washington,United States,12.78
+1988,Washington,United States,12.14
+1989,Washington,United States,11.92
+1990,Washington,United States,13.75
+1991,Washington,United States,13.76
+1992,Washington,United States,11.96
+1993,Washington,United States,12.39
+1994,Washington,United States,12.46
+1995,Washington,United States,12.55
+1996,Washington,United States,11.85
+1997,Washington,United States,12.36
+1998,Washington,United States,14.07
+1999,Washington,United States,13.19
+2000,Washington,United States,12.28
+2001,Washington,United States,12.99
+2002,Washington,United States,13.46
+2003,Washington,United States,12.07
+2004,Washington,United States,12.79
+2005,Washington,United States,12.82
+2006,Washington,United States,13.59
+2007,Washington,United States,13.13
+2008,Washington,United States,12.76
+2009,Washington,United States,12.44
+2010,Washington,United States,13.28
+2011,Washington,United States,13.56
+2012,Washington,United States,14.00
+2013,Washington,United States,14.19
